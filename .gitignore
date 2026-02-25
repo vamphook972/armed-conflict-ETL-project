@@ -1,3 +1,32 @@
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Caches and metadata
+pip-wheel-metadata/
+pip-log.txt
+pip-delete-this-directory.txt
+.mypy_cache/
+.cache/
+__MACOSX/
+
+# Compiled binaries
+*.exe
+*.dll
+*.dylib
+
+# Logs
+*.log
+
+# Wheels
+*.whl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
